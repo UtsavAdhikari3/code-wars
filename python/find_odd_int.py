@@ -17,3 +17,4 @@ def find_it(seq):
         if count & 1:
             return i
     
+    
