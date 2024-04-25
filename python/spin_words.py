@@ -12,7 +12,6 @@
 def spin_words(sentence):
     list1 = sentence.split()
     list2 = []
-    count = 0
     
     for i in list1:
         if len(i)>=5:
