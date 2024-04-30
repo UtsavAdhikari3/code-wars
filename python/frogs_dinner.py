@@ -16,7 +16,7 @@
 
 
 def frog_contest(flies):
-
+        
 
     chris = int((flies*(flies+1))/2)
 
